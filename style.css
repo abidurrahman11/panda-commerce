@@ -1,0 +1,71 @@
+.container{
+    padding-bottom: 60px;
+}
+
+.btn-buy-now{
+    padding: 9px 25px;
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    border-radius: 8px;
+    border: none;
+}
+.btn-buy-now:hover{
+    background-image: linear-gradient(45deg, rgb(236, 29, 133), rgb(253, 2, 170));
+    color: white;
+}
+
+.banner-bg{
+    background-color: #fceae8;
+    padding: 20px 20px;
+    border-radius: 15px;
+}
+.col-md-7 h1{
+    font-weight: 700;
+}
+.col-md-7 p, p{
+    color: gray;
+    padding-bottom: 15px;
+}
+.col-md-7 h2, .card-footer h5{
+    color: #ff4b92;
+}
+.cat1, .cat2, .cat3{
+    border-radius: 10px;
+}
+.cat-img{
+    height: 100px;
+}
+.cat1{
+    background-image: linear-gradient(35deg, rgb(235, 173, 5), rgb(247, 202, 3));
+}
+.cat2{
+    background-image: linear-gradient(35deg, rgb(236, 79, 79), rgb(228, 42, 42));
+}
+.cat3{
+    background-image: linear-gradient(35deg, rgb(93, 93, 241), rgb(30, 27, 175));
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.cat-shoes{
+    text-align: center;
+    border: none;
+}
+h5{
+    font-weight: 700;
+}
+.card{
+    border: none;
+    box-shadow: 2px 2px 15px gray;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+}
+.see-all{
+    text-decoration: none;
+    color: orange;
+    font-weight: 700;
+}
